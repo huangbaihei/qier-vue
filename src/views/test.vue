@@ -12,7 +12,7 @@ export default {
       message: 123,
     }
   },
-  methods: {
+  methods: {  
    
   },
   components: {
